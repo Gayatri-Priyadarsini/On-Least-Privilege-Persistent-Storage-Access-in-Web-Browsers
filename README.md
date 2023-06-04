@@ -34,5 +34,5 @@ Once the source code builds, you can run the browser with the command:
 ./mach run
 ```
 
-You can find our firefox build at this [here](https://iitgnacin-my.sharepoint.com/:u:/g/personal/gayatripriyadarsini_iitgn_ac_in/EWRuSB0IIZFKpuS_VbJPd9YBwbhliRXj-HvntzSDLv2LbQ?e=QFiYdY). This can then be used to run the firefox browser by `./mach run`
+You can find our firefox build [here](https://iitgnacin-my.sharepoint.com/:u:/g/personal/gayatripriyadarsini_iitgn_ac_in/EWRuSB0IIZFKpuS_VbJPd9YBwbhliRXj-HvntzSDLv2LbQ?e=QFiYdY). This can then be used to run the firefox browser by `./mach run`
 
